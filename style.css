@@ -1,0 +1,24 @@
+#ab{
+	color:white;
+	margin:auto;
+	position: absolute;
+	width:100%;
+	z-index:-1;
+}
+.backgroundimg{
+	width:110%;
+	height:110%;
+	position:absolute;
+	border:none;
+	margin:-10;
+}
+img{
+	border:4px red;
+	margin-left:20px;
+}
+body{
+	color:white;
+	font-family: arial;
+	background-image: url("ab.jpg")
+	
+}
